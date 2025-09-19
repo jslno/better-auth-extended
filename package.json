@@ -25,6 +25,6 @@
     "@types/node": "^22.15.18",
     "turbo": "^2.5.6",
     "typescript": "catalog:",
-    "@changesets/cli": "^2.29.6"
+    "@changesets/cli": "^2.29.7"
   }
 }
